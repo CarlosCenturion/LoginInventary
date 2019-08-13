@@ -1,0 +1,10 @@
+C:\Users\Work\source\repos\Juramento\Controlador\bin\Debug\Controlador.dll
+C:\Users\Work\source\repos\Juramento\Controlador\bin\Debug\Controlador.pdb
+C:\Users\Work\source\repos\Juramento\Controlador\bin\Debug\Datos.dll
+C:\Users\Work\source\repos\Juramento\Controlador\bin\Debug\Datos.pdb
+C:\Users\Work\source\repos\Juramento\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\Work\source\repos\Juramento\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\Juramento\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\Work\source\repos\Juramento\Controlador\obj\Debug\Controlador.dll
+C:\Users\Work\source\repos\Juramento\Controlador\obj\Debug\Controlador.pdb
+C:\Users\Work\source\repos\Juramento\Controlador\bin\Debug\MaterialSkin.dll

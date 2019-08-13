@@ -1,0 +1,8 @@
+C:\Users\Work\source\repos\Juramento\Datos\bin\Debug\Datos.dll
+C:\Users\Work\source\repos\Juramento\Datos\bin\Debug\Datos.pdb
+C:\Users\Work\source\repos\Juramento\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\Work\source\repos\Juramento\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\Juramento\Datos\obj\Debug\Datos.dll
+C:\Users\Work\source\repos\Juramento\Datos\obj\Debug\Datos.pdb
+C:\Users\Work\source\repos\Juramento\Datos\bin\Debug\MaterialSkin.dll
+C:\Users\Work\source\repos\Juramento\Datos\obj\Debug\Datos.csproj.CopyComplete
